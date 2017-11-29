@@ -1,1 +1,7 @@
 Gow - The lightweight alternative to Cygwin
+vim
+vsCode
+DiskView.exe
+ProcessMonitor.exe
+https://docs.microsoft.com/en-us/sysinternals/downloads/process-utilities
+https://docs.microsoft.com/en-us/sysinternals/downloads/
